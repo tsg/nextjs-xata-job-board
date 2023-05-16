@@ -30,6 +30,7 @@ const tables = [
         defaultValue: "Developer Job",
       },
       { name: "type", type: "string" },
+      { name: "test", type: "string" },
     ],
   },
 ] as const;
